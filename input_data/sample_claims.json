@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Outpatient claim for CPT 99213 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Hypertension (ICD-9 401.1).",
+    "metadata": {
+      "cpt_code": "99213",
+      "diagnosis": "401.1",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "MRI scan CPT 70553 was approved. Patient had complaints of chronic headaches (ICD-9 784.0).",
+    "metadata": {
+      "cpt_code": "70553",
+      "diagnosis": "784.0",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for physical therapy CPT 97110 was denied citing non-covered service. Diagnosis: lower back pain (ICD-9 724.2).",
+    "metadata": {
+      "cpt_code": "97110",
+      "diagnosis": "724.2",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80050 (General Health Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80050",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99395 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99395",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99214 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Diabetes (ICD-9 250.00).",
+    "metadata": {
+      "cpt_code": "99214",
+      "diagnosis": "250.00",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CT scan CPT 70450 was approved. Patient had complaints of abdominal pain (ICD-9 789.00).",
+    "metadata": {
+      "cpt_code": "70450",
+      "diagnosis": "789.00",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for occupational therapy CPT 97530 was denied citing non-covered service. Diagnosis: shoulder pain (ICD-9 726.0).",
+    "metadata": {
+      "cpt_code": "97530",
+      "diagnosis": "726.0",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80053 (Comprehensive Metabolic Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80053",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99396 claim denied. Annual preventive exam for adult female. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99396",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99215 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Asthma (ICD-9 493.90).",
+    "metadata": {
+      "cpt_code": "99215",
+      "diagnosis": "493.90",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "Ultrasound CPT 76700 was approved. Patient had complaints of flank pain (ICD-9 789.09).",
+    "metadata": {
+      "cpt_code": "76700",
+      "diagnosis": "789.09",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for speech therapy CPT 92507 was denied citing non-covered service. Diagnosis: speech delay (ICD-9 315.39).",
+    "metadata": {
+      "cpt_code": "92507",
+      "diagnosis": "315.39",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80061 (Lipid Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80061",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99397 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99397",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99213 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Hypertension (ICD-9 401.1).",
+    "metadata": {
+      "cpt_code": "99213",
+      "diagnosis": "401.1",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "MRI scan CPT 70553 was approved. Patient had complaints of chronic headaches (ICD-9 784.0).",
+    "metadata": {
+      "cpt_code": "70553",
+      "diagnosis": "784.0",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for physical therapy CPT 97110 was denied citing non-covered service. Diagnosis: lower back pain (ICD-9 724.2).",
+    "metadata": {
+      "cpt_code": "97110",
+      "diagnosis": "724.2",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80050 (General Health Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80050",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99395 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99395",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99214 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Diabetes (ICD-9 250.00).",
+    "metadata": {
+      "cpt_code": "99214",
+      "diagnosis": "250.00",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CT scan CPT 70450 was approved. Patient had complaints of abdominal pain (ICD-9 789.00).",
+    "metadata": {
+      "cpt_code": "70450",
+      "diagnosis": "789.00",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for occupational therapy CPT 97530 was denied citing non-covered service. Diagnosis: shoulder pain (ICD-9 726.0).",
+    "metadata": {
+      "cpt_code": "97530",
+      "diagnosis": "726.0",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80053 (Comprehensive Metabolic Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80053",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99396 claim denied. Annual preventive exam for adult female. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99396",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99215 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Asthma (ICD-9 493.90).",
+    "metadata": {
+      "cpt_code": "99215",
+      "diagnosis": "493.90",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "Ultrasound CPT 76700 was approved. Patient had complaints of flank pain (ICD-9 789.09).",
+    "metadata": {
+      "cpt_code": "76700",
+      "diagnosis": "789.09",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for speech therapy CPT 92507 was denied citing non-covered service. Diagnosis: speech delay (ICD-9 315.39).",
+    "metadata": {
+      "cpt_code": "92507",
+      "diagnosis": "315.39",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80061 (Lipid Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80061",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99397 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99397",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99213 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Hypertension (ICD-9 401.1).",
+    "metadata": {
+      "cpt_code": "99213",
+      "diagnosis": "401.1",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "MRI scan CPT 70553 was approved. Patient had complaints of chronic headaches (ICD-9 784.0).",
+    "metadata": {
+      "cpt_code": "70553",
+      "diagnosis": "784.0",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for physical therapy CPT 97110 was denied citing non-covered service. Diagnosis: lower back pain (ICD-9 724.2).",
+    "metadata": {
+      "cpt_code": "97110",
+      "diagnosis": "724.2",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80050 (General Health Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80050",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99395 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99395",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99214 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Diabetes (ICD-9 250.00).",
+    "metadata": {
+      "cpt_code": "99214",
+      "diagnosis": "250.00",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CT scan CPT 70450 was approved. Patient had complaints of abdominal pain (ICD-9 789.00).",
+    "metadata": {
+      "cpt_code": "70450",
+      "diagnosis": "789.00",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for occupational therapy CPT 97530 was denied citing non-covered service. Diagnosis: shoulder pain (ICD-9 726.0).",
+    "metadata": {
+      "cpt_code": "97530",
+      "diagnosis": "726.0",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80053 (Comprehensive Metabolic Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80053",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99396 claim denied. Annual preventive exam for adult female. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99396",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99215 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Asthma (ICD-9 493.90).",
+    "metadata": {
+      "cpt_code": "99215",
+      "diagnosis": "493.90",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "Ultrasound CPT 76700 was approved. Patient had complaints of flank pain (ICD-9 789.09).",
+    "metadata": {
+      "cpt_code": "76700",
+      "diagnosis": "789.09",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for speech therapy CPT 92507 was denied citing non-covered service. Diagnosis: speech delay (ICD-9 315.39).",
+    "metadata": {
+      "cpt_code": "92507",
+      "diagnosis": "315.39",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80061 (Lipid Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80061",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99397 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99397",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99213 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Hypertension (ICD-9 401.1).",
+    "metadata": {
+      "cpt_code": "99213",
+      "diagnosis": "401.1",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "MRI scan CPT 70553 was approved. Patient had complaints of chronic headaches (ICD-9 784.0).",
+    "metadata": {
+      "cpt_code": "70553",
+      "diagnosis": "784.0",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for physical therapy CPT 97110 was denied citing non-covered service. Diagnosis: lower back pain (ICD-9 724.2).",
+    "metadata": {
+      "cpt_code": "97110",
+      "diagnosis": "724.2",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80050 (General Health Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80050",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99395 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99395",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99214 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Diabetes (ICD-9 250.00).",
+    "metadata": {
+      "cpt_code": "99214",
+      "diagnosis": "250.00",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CT scan CPT 70450 was approved. Patient had complaints of abdominal pain (ICD-9 789.00).",
+    "metadata": {
+      "cpt_code": "70450",
+      "diagnosis": "789.00",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for occupational therapy CPT 97530 was denied citing non-covered service. Diagnosis: shoulder pain (ICD-9 726.0).",
+    "metadata": {
+      "cpt_code": "97530",
+      "diagnosis": "726.0",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80053 (Comprehensive Metabolic Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80053",
+      "diagn osis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99396 claim denied. Annual preventive exam for adult female. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99396",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99215 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Asthma (ICD-9 493.90).",
+    "metadata": {
+      "cpt_code": "99215",
+      "diagnosis": "493.90",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "Ultrasound CPT 76700 was approved. Patient had complaints of flank pain (ICD-9 789.09).",
+    "metadata": {
+      "cpt_code": "76700",
+      "diagnosis": "789.09",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for speech therapy CPT 92507 was denied citing non-covered service. Diagnosis: speech delay (ICD-9 315.39).",
+    "metadata": {
+      "cpt_code": "92507",
+      "diagnosis": "315.39",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80061 (Lipid Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80061",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99397 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99397",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99213 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Hypertension (ICD-9 401.1).",
+    "metadata": {
+      "cpt_code": "99213",
+      "diagnosis": "401.1",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "MRI scan CPT 70553 was approved. Patient had complaints of chronic headaches (ICD-9 784.0).",
+    "metadata": {
+      "cpt_code": "70553",
+      "diagnosis": "784.0",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for physical therapy CPT 97110 was denied citing non-covered service. Diagnosis: lower back pain (ICD-9 724.2).",
+    "metadata": {
+      "cpt_code": "97110",
+      "diagnosis": "724.2",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80050 (General Health Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80050",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99395 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99395",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99214 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Diabetes (ICD-9 250.00).",
+    "metadata": {
+      "cpt_code": "99214",
+      "diagnosis": "250.00",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CT scan CPT 70450 was approved. Patient had complaints of abdominal pain (ICD-9 789.00).",
+    "metadata": {
+      "cpt_code": "70450",
+      "diagnosis": "789.00",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for occupational therapy CPT 97530 was denied citing non-covered service. Diagnosis: shoulder pain (ICD-9 726.0).",
+    "metadata": {
+      "cpt_code": "97530",
+      "diagnosis": "726.0",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80053 (Comprehensive Metabolic Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80053",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99396 claim denied. Annual preventive exam for adult female. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99396",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  },
+  {
+    "text": "Outpatient claim for CPT 99215 (Established patient office visit) was denied due to lack of prior authorization. Diagnosis: Asthma (ICD-9 493.90).",
+    "metadata": {
+      "cpt_code": "99215",
+      "diagnosis": "493.90",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "Ultrasound CPT 76700 was approved. Patient had complaints of flank pain (ICD-9 789.09).",
+    "metadata": {
+      "cpt_code": "76700",
+      "diagnosis": "789.09",
+      "claim_type": "radiology"
+    }
+  },
+  {
+    "text": "Claim for speech therapy CPT 92507 was denied citing non-covered service. Diagnosis: speech delay (ICD-9 315.39).",
+    "metadata": {
+      "cpt_code": "92507",
+      "diagnosis": "315.39",
+      "claim_type": "therapy"
+    }
+  },
+  {
+    "text": "Outpatient lab test CPT 80061 (Lipid Panel) was paid in full. Diagnosis: Routine check-up (ICD-9 V70.0).",
+    "metadata": {
+      "cpt_code": "80061",
+      "diagnosis": "V70.0",
+      "claim_type": "outpatient"
+    }
+  },
+  {
+    "text": "CPT 99397 claim denied. Annual preventive exam for adult male. Reason: claim outside coverage period.",
+    "metadata": {
+      "cpt_code": "99397",
+      "diagnosis": "V70.0",
+      "claim_type": "preventive"
+    }
+  }
+]
