@@ -24,7 +24,11 @@ class SessionVectorStore(VectorDB):
     def query_vector(self, vector: list[float], top_k: int = 5) -> list[dict[str, Any]]:
         if len(vector) != self.vector_dim:
             raise ValueError(f"Vector dimension mismatch: expected {self.vector_dim}, got {len(vector)}")
-        
+
+        if not self.vectors:
+            # print("⚠️ No vectors in store to search.")
+            return []
+
         query_vec = np.array(vector)
         all_vecs = np.stack(self.vectors)
         similarities = np.dot(all_vecs, query_vec) / (
@@ -36,3 +40,4 @@ class SessionVectorStore(VectorDB):
             {"id": self.ids[i], "payload": self.payloads[i], "score": float(similarities[i])}
             for i in top_indices
         ]
+

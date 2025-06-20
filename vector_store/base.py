@@ -1,10 +1,6 @@
-### vector_store/base.py
-from .backends.qdrant_store import QdrantVectorStore
+from .router import get_store
 
-# Internal: Singleton backend instance
-_store = QdrantVectorStore(vector_dim=384)
-
-# External API: unchanged
+_store = get_store()
 
 def init_collection():
     return _store.init_collection()
